@@ -1,13 +1,16 @@
 # Recolección de datos de Twitter
 
-Mediante el Script 1 se puede recolectar los datos de Twitter, respecto a los juegos olímpicos de las ciudades de Madrid(España), Tokyo(Japón), Quito(Ecuador) y esos datos se los pasó al gestor de base de datos CouchDB. Y con el Script 2 se recolecta mediante un track definido llamado Tokyo2020
+Mediante el Script 1 se puede recolectar los datos de Twitter, respecto a los juegos olímpicos de las ciudades de Madrid(España), Tokyo(Japón), Quito(Ecuador) y esos datos se los pasó al gestor de base de datos CouchDB. Y con el Script 2 se recolecta mediante un track definido llamado Tokyo2020. Y para pasarlo a MongoDB Compass se realiza el comando por consola de la cuarta imagen y se lo importa a Compass por interfaz.
 
 <img src="https://i.postimg.cc/vH7mM9yr/Twitter-DB1.jpg" alt="TwitterJO"/>
 <img src="https://i.postimg.cc/fbPz5f7N/Twitter-DB2.jpg" alt="TwitterJO2"/>
+<img src="https://i.postimg.cc/VNBK9mxQ/Wscraping.jpg" alt="Twitter1"/>
+<img src="https://i.postimg.cc/4dYwDVKZ/TwitterC.jpg" alt="Twitter"/>
 
 # Recolección de datos con WebScraping
 
-Mediante el script 3
+Mediante el script 3 se realiza el web scraping a una página web. Y se lo sube a mongoDB. 
+
 
 
 # Recolección de datos con Facebook
